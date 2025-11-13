@@ -17,6 +17,9 @@ To use Anvil resources, make sure you can log in through the following links:
 - https://access-ci.org  
 - https://ondemand.anvil.rcac.purdue.edu
 
+Anvil user guide:
+- https://allocations.access-ci.org/resources/anvil.purdue.access-ci.org
+
 ---
 
 ## Using This Repository
