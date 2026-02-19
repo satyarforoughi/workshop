@@ -1,6 +1,6 @@
 # **Parallel Computing in R (Anvil Version)**
 
-This repository contains all the material we went over in the *Parallel Computing in R* workshop held on **November 12, 2025**.
+This repository contains all the material we went over in the *Parallel Computing in R* workshop held on **February 18, 2026**.
 
 This repository and files are specifically designed for usage on **Purdue Anvil**.  
 A PSC Bridges2 version is also available at:  
