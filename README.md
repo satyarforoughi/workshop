@@ -6,7 +6,7 @@ This repository and files are specifically designed for usage on **Purdue Anvil*
 A PSC Bridges2 version is also available at:  
 https://github.com/satyarforoughi/workshop_b2
 
-Note that **ACCESS allocations (accounts)** created for this workshop will remain active until **December 31, 2025**. After this date you will not be able to submit jobs, but your accounts will continue to exist.
+Note that **ACCESS allocations (accounts)** created for this workshop will remain active until **March 8, 2026**. After this date you will not be able to submit jobs, but your accounts will continue to exist.
 
 ---
 
